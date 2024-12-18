@@ -64,8 +64,8 @@ If you'd like to support Pyrogram, you can consider:
 
 ### Installing
 
-``` bash
-pip3 install git+https://github.com/akbarbotz3/pyro
+```
+bash pip3 install git+https://github.com/akbarbotz3/lahk
 ```
 
 ### Resources
